@@ -1,82 +1,80 @@
-<h1 align="center">Hi 👋, I'm Nguyen Van Kien</h1>
+<h1 align="center">Nguyen Van Kien</h1>
 
 <h3 align="center">
-🚀 Software Developer | Web Developer | Cybersecurity Enthusiast
+Senior Full Stack Developer & UI/UX Designer
 </h3>
 
 <p align="center">
-Building software, exploring security, and creating useful tools.
+Hi, I’m Kien — Senior Full Stack Developer & UI/UX Designer - kiencode.io.vn chúng tôi xây dựng và phát triển các giải pháp phần mềm hiện đại, tối ưu cho doanh nghiệp và cá nhân. Với đội ngũ lập trình viên trẻ, nhiệt huyết và giàu kinh nghiệm
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# About Me
 
-- 🔭 I’m currently working on **Web Applications & Software Projects**
-- 🌱 I’m learning **Cybersecurity, Data Science, Cloud**
-- 💡 Interested in **AI, Security, Automation**
-- 💬 Ask me about **Java, Web Development, Databases**
-- 📫 Contact: **your_email@gmail.com**
+- I’m currently working on **Web Applications & Software Projects**
+- I’m learning **Cybersecurity, Data Science, Cloud**
+- Interested in **AI, Security, Automation**
+- Ask me about **Java, Web Development, Databases**
+- Contact: **kienit.net@gmail.com**
 
 ---
 
-# 🌐 Connect with me
+# Connect with me
 
 <p align="left">
-<a href="#"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=youtube" height="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+<a href="https://www.facebook.com/kienit37"><img src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
+<a href="https://github.com/kienit37"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+<a href=""><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
 </p>
 
 ---
 
-# 🚀 Tech Stack
+# Tech Stack
 
-## 💻 Software Development
+## Software Development
 <p>
 <img src="https://skillicons.dev/icons?i=java,cpp,cs,python,go,rust,kotlin,dotnet,spring,gradle,maven"/>
 </p>
 
 ---
 
-## 🌐 Web Development
+## Web Development
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,php,laravel,wordpress,bootstrap,tailwind"/>
 </p>
 
 ---
 
-## 🗄 Database
+## Database
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase"/>
 </p>
 
 ---
 
-## 📊 Data Science & AI
+## Data Science & AI
 <p>
 <img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,opencv,anaconda"/>
 </p>
 
 ---
 
-## 🔐 Cybersecurity
+## Cybersecurity
 <p>
 <img src="https://skillicons.dev/icons?i=linux,bash,kali,docker,kubernetes,nginx"/>
 </p>
 
 ---
 
-## ⚙️ DevOps & Cloud
+## DevOps & Cloud
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,kubernetes,jenkins,aws,azure,gcp"/>
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 <p align="center">
 
@@ -88,15 +86,15 @@ Building software, exploring security, and creating useful tools.
 
 ---
 
-# 🔥 GitHub Streak
+# GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=kienit37&theme=tokyonight"/>
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
@@ -104,7 +102,7 @@ Building software, exploring security, and creating useful tools.
 
 ---
 
-# 🧰 Tools
+# Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,androidstudio,figma,postman"/>
@@ -112,17 +110,17 @@ Building software, exploring security, and creating useful tools.
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
-### 📱 Phone Price Estimation Kiosk
+### Phone Price Estimation Kiosk
 AI-powered kiosk that estimates smartphone prices automatically.
 
-### 🌐 QR Ordering WebApp
+### QR Ordering WebApp
 Real-time restaurant ordering system using QR codes.
 
-### 🎵 Karaoke Studio Software
+### Karaoke Studio Software
 Windows software for creating karaoke videos automatically.
 
 ---
 
-⭐ From [NguyenVanKien](https://github.com/YOUR_USERNAME)
+⭐ From [NguyenVanKien](https://github.com/kienit37)
