@@ -89,9 +89,8 @@ Hi, I’m Kien — Senior Full Stack Developer & UI/UX Designer - kiencode.io.vn
 # GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=kienit37&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=kienit37&theme=tokyonight&hide_border=true"/>
 </p>
-
 ---
 
 # Contribution Graph
