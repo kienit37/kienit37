@@ -109,17 +109,4 @@ Hi, I’m Kien — Senior Full Stack Developer & UI/UX Designer - kiencode.io.vn
 
 ---
 
-# Featured Projects
-
-### Phone Price Estimation Kiosk
-AI-powered kiosk that estimates smartphone prices automatically.
-
-### QR Ordering WebApp
-Real-time restaurant ordering system using QR codes.
-
-### Karaoke Studio Software
-Windows software for creating karaoke videos automatically.
-
----
-
 ⭐ From [NguyenVanKien](https://github.com/kienit37)
