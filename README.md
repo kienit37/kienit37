@@ -78,9 +78,9 @@ Hi, I’m Kien — Senior Full Stack Developer & UI/UX Designer - kiencode.io.vn
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kienit37&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kienit37&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
